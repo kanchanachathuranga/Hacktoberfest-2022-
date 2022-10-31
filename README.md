@@ -1,50 +1,119 @@
-# Hacktoberfest-2022-
-hacktoberfest hacktoberfest2022
-Hacktoberfest 2022
+# Hacktoberfest 2022 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
+![Hacktoberfest 2021](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
 
 
-GitHub issues GitHub forks GitHub stars
+## Contributors of `Hacktoberfest 2022`
 
-What is Hacktoberfest?
-Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
+<div align="center">
 
-Watch on YouTube (In Sinhala Language)
+<a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+</a>
+  
+  </div>
+
+## This project is perfect for your first pull request
+
+🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.**
+
+📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/ossamamehmood" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+
+<a href="https://github.com/ossamamehmood/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/ossamamehmood/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ossamamehmood/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ossamamehmood/hacktoberfest2022?color=2b9348"></a>
+<a href="https://github.com/ossamamehmood/hacktoberfest2022/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ossamamehmood/hacktoberfest2022?color=2b9348" alt="License Badge"/></a>
+
+</div>
+
+## Instructions-
+
+- Fork this Repository using the button at the top on right corner.
+- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
+- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
+- Add your profile data in `content/participant/`
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- Create a pull request
+- Star this repository
+
+# How to make your first Pull Request
+
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+
+## 1. Add your profile picture to the folder
+
+Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
+
+```
+static/images/<YOUR-USERNAME>.png
+```
 
 
-Values
-Everyone is welcome
-Quantity is fun, quality is key
-Short-term action, long-term impact
-Contributors
-Here’s what you need to know to participate and complete Hacktoberfest:
+## 2. Add your profile information
 
-Register anytime between september 26 and october 31
+Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
 
-Pull requests can be made in any github or gitlab hosted project that’s participating in hacktoberfest (look for the “hacktoberfest” topic)
+```
+content/participant/<YOUR-USERNAME>.md
+```
 
-Project maintainers must accept your pull/merge requests for them to count toward your total
+Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 
-Have 4 pull/merge requests accepted between october 1 and october 31 to complete hacktoberfest
+```
+---
+name: YOURNAME
+institution/company: INSTITUTION_NAME
+github:USERNAME
+---
+```
 
-The first 40,000 participants (maintainers and contributors) who complete hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the hacktoberfest 2022 t-shirt.
+<div align="center">
+<h2> OR </h2>
+</div>
 
-Please note that you need to select any 4 issues and make 4 pull requests to complete Hacktoberfest participation. To successfully make pull requests, create a new file with your GitHub username in the relevant programming language folder (If the programming language folder of your interest does not exist, you are free to create a new one with the name of the language), then add your answers in it. You can use the same file to complete your 4 pull requests. Please check this sample for your reference.
+## 3. Create / Upload Your Code / Algorithms
 
-Let's begin
-Complete the registartion over https://hacktoberfest.com/
-Fork this repository.
-Clone on your local machine.
-git clone https://github.com/<your github username>/hacktoberfest-2022.git
-Navigate to the project directory.
-cd hacktoberfest-2022
-Create a new branch.
-git checkout -b my-new-branch
-Add your contribution.
-git add .
-Commit your changes.
-git commit -m "Relevant message"
-Push your changes.
-git push origin my-new-branch
-Create a new pull request from your forked repository.
-Congratulations 🎉 you just made a pull request!
-Once you are done, don't forget to show some love with giving me a ⭐️
+Create/Upload your code in folder following the convention `Add Code Here`
+- Choose an extact lanaguage folder `drop your code`
+- Below is `an example` to add file properly
+- You can follow up `any languages`
+```
+Add Code Here/PYTHON/<YOUR-FILERNAME>.py
+```
+```
+Add Code Here/C++/<YOUR-FILERNAME>.cpp
+```
+You can follow any pathway a `code` or `profile information`
+
+## 4. Wait for Pull Request to merge
+
+## 5. Celebrate - you've done your first pull request!!
+
+```py
+'''
+Always make more then 4 pull requests.
+Lets say you have made only 4 pull request to different projects,
+but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
+then you have remaining 3 valid pull requests if these projects is not excluded.
+If you fail to make 4 pull requests then you can't get swags or t-shirts.
+I will recommend you to make pull request to your own repo which is very very safest side for you..
+keep in mind that repo has hacktoberfest topic..
+'''
+```
+
+## + Follow Me : } Quick Approval of Pull Request
+
+```py
+'''
+To get approval of the pull request much quicker and faster (`Follow Me`)🚀
+'''
+```
+
+<tr><td align="center"><a href="https://github.com/ossamamehmood"><kbd><img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Ossama Mehmood</b></sub></a><br /></td>
+
+</tr>
