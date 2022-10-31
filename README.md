@@ -7,7 +7,8 @@
 <div align="center">
 
 <a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+  <img src="https://contrib.rocks/image?repo=kanchanachathuranga
+/Hacktoberfest2022-1" />
 </a>
   
   </div>
