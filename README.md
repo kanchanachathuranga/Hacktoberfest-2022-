@@ -30,7 +30,7 @@
 <a href="https://github.com/kanchanachathuranga
 /Hacktoberfest-2022-/pulls"><img src="https://img.shields.io/github/issues-pr/kanchanachathuranga
 /Hacktoberfest-2022-" alt="Pull Requests Badge"/></a>
-<a href="https://github.comkanchanachathuranga
+<a href="https://github.com/kanchanachathuranga
 /Hacktoberfest-2022-/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kanchanachathuranga
 /Hacktoberfest-2022-?color=2b9348"></a>
 <a href="https://github.com/kanchanachathuranga
